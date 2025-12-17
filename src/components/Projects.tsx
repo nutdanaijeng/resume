@@ -3,7 +3,7 @@ import { Typography, Tag } from 'antd';
 import { RocketOutlined } from '@ant-design/icons';
 import { resumeData } from '../data/resumeData';
 
-const { Title, Paragraph } = Typography;
+const { Title } = Typography;
 
 const Projects: React.FC = () => {
     return (
